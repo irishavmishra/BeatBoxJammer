@@ -1,6 +1,6 @@
 # BeatBoxJammer
 
-# Drum Under Your Key
+## Drum Under Your Key
 
 Drum Under Your Key is a mini project built with HTML, CSS, and JavaScript that allows you to play drum sounds using different keys on your PC. It provides a fun and interactive way to create drum beats by simply pressing keys.
 
